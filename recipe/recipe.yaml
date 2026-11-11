@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.8"
+  version: "0.4.9"
 
 package:
   name: fetch
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/gruntwork-io/fetch/archive/v${{ version }}.tar.gz
-  sha256: 8192dddb375e2a8765e54e27c65b544068b35bd349f9ad669d6269734f3b5f76
+  sha256: 4d0a62de2afe4519324815570fbf0eea75edb7b29734844f403d91f13b32e034
 
 build:
   number: 0
